@@ -1,0 +1,10 @@
+// package.json（必要最低限）
+{
+  "name": "my-next-app",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
